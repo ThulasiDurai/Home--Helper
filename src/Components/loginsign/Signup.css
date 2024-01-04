@@ -1,0 +1,63 @@
+.App {
+    background-color: transparent;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 520px;
+    padding: 25px;
+    border: 6px solid transparent;
+    border-radius: 5px;
+    margin-right:55%;
+    margin-left:35%;
+    margin-top:0px;
+    margin-bottom: 50px;
+    
+  }
+  .body{
+    background-image: url("https://img.pikbest.com/backgrounds/20190617/simple-cleaning-service-hd-background_1895772.jpg!sw800");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 100vh;
+    min-height: 100vh;
+  }
+  h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  input{
+    margin: 5px 0px;
+    height: 35px;
+    width:100%;
+    padding: 20px;
+    text-align:left;
+  }
+  button {
+    background-color: #216e4f;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  button:hover{
+    background-color:gray;
+  }
+  
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+  }
+  #log
+{
+  font-size: 200%;
+  font-style: italic;
+  color: #04AA6D;
+}
+#standard-basic
+{
+ width: 250px;
+}

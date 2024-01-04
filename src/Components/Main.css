@@ -1,0 +1,138 @@
+/* HomeHelper.css
+
+.home-helper-main {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .section-1 {
+    background-color: #f0f0f0;
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .company-title {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .company-slogan {
+    font-size: 1.2rem;
+    color: #666;
+  }
+  
+  .home-computer-container {
+    margin-top: 20px;
+  }
+  
+  .home-computer {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+  }
+  
+  .section-2 {
+    background-color: #fff;
+    padding: 40px;
+  }
+  
+  .service {
+    text-align: center;
+  }
+  
+  .service-icon {
+    width: 80px;
+    height: 80px;
+  }
+  
+  .service-title {
+    font-size: 1.5rem;
+    margin: 10px 0;
+  }
+  
+  .service-text {
+    color: #666;
+  }
+  
+  .section-3 {
+    background-color: #f0f0f0;
+    padding: 40px;
+  }
+  
+  .feature {
+    text-align: center;
+  }
+  
+  .feature-image {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .feature-text {
+    font-size: 1.2rem;
+    color: #333;
+    display: block;
+  }
+  
+  .section-4 {
+    background-color: #fff;
+    padding: 40px;
+  }
+  
+  .testimonial {
+    text-align: center;
+  }
+  
+  .testimonial-text {
+    font-style: italic;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .testimonial-author {
+    font-weight: bold;
+  }
+  
+  .section-5 {
+    background-color: #f0f0f0;
+    padding: 40px;
+  }
+  
+  .subscribe-input-label {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #333;
+  }
+  
+  .subscribe-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .subscribe-input {
+    padding: 10px;
+    margin-right: 10px;
+    width: 250px;
+  }
+  
+  .subscribe-btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  /* Add more styles as needed */
