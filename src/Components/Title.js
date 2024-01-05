@@ -10,7 +10,7 @@ const Title = ({ text, textAlign }) => {
       fontWeight: '700',
       textAlign: textAlign,
    }} 
-    style={{width : '500px'}}>
+    style={{width : '510px'}}>
       {text}
     </Typography>
   )
